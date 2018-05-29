@@ -1,0 +1,9 @@
+[http]
+  proxy = 
+[color]
+  ui = true
+[user]
+  name = 
+  email = 
+[push]
+  default = simple
